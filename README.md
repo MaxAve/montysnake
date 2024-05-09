@@ -1,5 +1,5 @@
-# Snakefish
-A chess engine created from scratch in Python
+# MontySnake
+A Python chess engine forked from cglouch/snakefish
 
 ## Overview
 Snakefish uses a bitboard approach to represent the state of the chess board and to generate possible moves. Search is performed using the negamax algorithm with a simple heuristic. The name is a play on "Stockfish", a well known chess engine (and "snake", cause, you know, Python).
